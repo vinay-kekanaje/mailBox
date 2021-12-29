@@ -1,0 +1,29 @@
+#login-left-section {
+    background-image: url("../images/logo.png");
+    height: 525px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+div.credentials {
+    margin-top: 250px;
+}
+
+.credentials form {
+    width: 80%;
+}
+
+.btn-primary {
+    background-color: #00b494;
+    border-color: #00b494;
+    box-shadow: none;
+}
+
+#inbox-wrapper tr {
+    cursor: pointer;
+}
+
+[class*=sidebar-dark] .brand-link {
+    border-bottom: none;
+}
